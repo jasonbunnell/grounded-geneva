@@ -1,0 +1,17 @@
+{
+  "name": "grounded",
+  "version": "1.0.0",
+  "description": "Grounded site built with Materialize CSS framework.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grounded",
+    "coffee",
+    "finger",
+    "lakes"
+  ],
+  "author": "Jason Bunnell",
+  "license": "ISC"
+}

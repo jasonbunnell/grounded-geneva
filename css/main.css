@@ -1,0 +1,48 @@
+.grounded-brown {
+  background-color: rgb(77, 44, 1);
+}
+
+.logo {
+  font-family: 'Fraunces';
+}
+
+.main-header {
+  background: url(../img/grounded-coffee.jpeg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  min-height: 800px;
+  color: #fff;
+  position: relative;
+}
+
+.main-header .showcase {
+  padding-top: 700px;
+}
+
+.page-footer {
+  background-color: rgb(77, 44, 1);
+}
+
+.primary-overlay {
+  background: rgba(46, 21, 0, 0.5);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.primary-detail {
+  font-family: 'PT Serif';
+  font-size: 44px;
+}
+
+.scroll-icon {
+  position: absolute;
+  bottom: 5%;
+  left: 47%;
+  opacity: 0.5;
+}
+
